@@ -195,7 +195,7 @@ For questions about the analysis methodology, findings, or recommendations:
 
 ## ✅ Live Dashboard
 
-- "https://customer-segmentation-churn-pattern-analytics.streamlit.app/"
+- https://customer-segmentation-churn-pattern-analytics.streamlit.app/
 
 ---
 
