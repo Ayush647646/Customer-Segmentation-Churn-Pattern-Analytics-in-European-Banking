@@ -193,6 +193,12 @@ For questions about the analysis methodology, findings, or recommendations:
 
 ---
 
+## ✅ Live Dashboard
+
+- "https://customer-segmentation-churn-pattern-analytics.streamlit.app/"
+
+---
+
 **Analysis Date**: February 2026
 **Report Version**: 1.0
 **Status**: Final Deliverable
